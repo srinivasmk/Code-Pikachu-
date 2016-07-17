@@ -4,6 +4,7 @@
     <title>Pikachu Map</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
+		<script src="jquery-3.1.0.min.js"></script>
     <style>
       html, body {
         height: 100%;
